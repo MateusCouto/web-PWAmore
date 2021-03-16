@@ -2,4 +2,4 @@
 
 ![alt text](https://github.com/MateusCouto/web-PWAmore/blob/main/Screenshot.png?raw=true)
 
-**PSD Inclusivo**
+**PSD Incluso**
